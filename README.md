@@ -1,1 +1,1 @@
-# MyProjects
+This project of mine is a clone of instagram database. I have created & populated around 7-8 tables that are must in an instagram profile. It gives us basic idea about users, their followers, people they follow, likes, photos, hashtags & comments used by them and on their profile. All the queries are in MySQL as it's the most widely used DBMS and can reach to maximum people. Don't hesitate to suggest changes/improvements in the project.
